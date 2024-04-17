@@ -16,4 +16,4 @@ with
 SELECT
     count(company_id) as duplicate_companies
 from
-    cte
+    cte;

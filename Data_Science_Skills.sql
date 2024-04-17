@@ -9,4 +9,4 @@ GROUP BY
 HAVING 
   COUNT(candidate_id) = 3 
 ORDER BY 
-  candidate_id ASC
+  candidate_id ASC;
